@@ -354,7 +354,7 @@ input.nosubmit:focus {
 }
 
 .footer-bg {
-    background-image: url(/bg_bottom_banner.png);
+    background-image: url('bg_bottom_banner.png');
     background-repeat: no-repeat;
     background-size: auto;
     background-position: 0 35%;
